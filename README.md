@@ -1,3 +1,9 @@
+This package includes the python code of the Structure-aware-3dcellseg
+
+Author：Dianlong Y, Zijun Wang; Coder: Yuantang Miao; Email：miaoyuantang@stumail.ysu.edu.cn
+
+This package was developed by Mr. Yuantang Miao(miaoyuantang@stumail.ysu.edu.cn). For any problem concerning the code, please feel free to contact Mr.Wang.
+
 Structure-aware-3dcellseg was trained and tested on three datasets
 For ATAS
 
