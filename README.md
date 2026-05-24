@@ -4,6 +4,8 @@ Author：Dianlong Y, Yuantang Miao; Coder: Yuantang Miao; Email：miaoyuantang@s
 
 This package was developed by Mr. Yuantang Miao(miaoyuantang@stumail.ysu.edu.cn). For any problem concerning the code, please feel free to contact Mr.Wang.
 
+This repository provides an initial version of the code. More implementation details and usage tutorials will be updated after publication.
+
 Structure-aware-3dcellseg was trained and tested on three datasets
 For ATAS
 
